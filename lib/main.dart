@@ -1,8 +1,11 @@
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import './quiz1.dart';
 import 'package:getwidget/getwidget.dart';
+
+import 'cale.dart';
 void main(){
   runApp(
       new MaterialApp(
@@ -154,7 +157,7 @@ class QuizState extends State<Quiz>{
                   ],
                 ),
               ),
-              onPressed: (){},
+              onPressed: OpenCal,
               shape:  GFButtonShape.pills,
 
             ),
@@ -306,5 +309,12 @@ class QuizState extends State<Quiz>{
       Navigator.push(context, new MaterialPageRoute(builder: (context)=> new Quiz1()));
     });
   }
+  // ignore: non_constant_identifier_names
+  void OpenCal(){
+    setState(() {
+      Navigator.push(context, new MaterialPageRoute(builder: (context)=> new MyHomePage()));
+    });
+  }
+
 }
 
