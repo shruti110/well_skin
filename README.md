@@ -23,10 +23,11 @@ It has 2 different classes of skin cancer which are listed below :
 In this kernel we will try to detect 2 different classes of moles using Convolution Neural Network with keras tensorflow in backend and then analyse the result to see how the model can be useful in practical scenario.
 
 ### App
-<p align="center">
-  <img src="https://github.com/shruti110/well_skin/blob/master/WhatsApp%20Image%202021-01-18%20at%205.25.31%20PM(4).jpeg" />
-</p>
-<h1 align="center">WellSkin</h1> 
+![Screenshot](https://github.com/shruti110/well_skin/blob/master/WhatsApp%20Image%202021-01-18%20at%205.25.31%20PM(4).jpeg)
+![Screenshot](https://github.com/shruti110/well_skin/blob/master/WhatsApp%20Image%202021-01-18%20at%205.25.31%20PM.jpeg)
+![Screenshot](https://github.com/shruti110/well_skin/blob/master/WhatsApp%20Image%202021-01-18%20at%205.25.31%20PM(3).jpeg)
+![Screenshot](https://github.com/shruti110/well_skin/blob/master/WhatsApp%20Image%202021-01-18%20at%205.25.56%20PM.jpeg)
+![Screenshot](https://github.com/shruti110/well_skin/blob/master/WhatsApp%20Image%202021-01-18%20at%205.25.31%20PM(1).jpeg)
 
 
 
