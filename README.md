@@ -24,7 +24,7 @@ In this kernel we will try to detect 2 different classes of moles using Convolut
 
 ### App
 
-**It is responsive website helping you maintain your skin health by offering the following options:**
+**It is responsive app helping you maintain your skin health by offering the following options:**
 
 - [x] Self Examination for skin cancer
 - [x] Checking your risk level with a questionnaire
@@ -34,8 +34,11 @@ In this kernel we will try to detect 2 different classes of moles using Convolut
 - [x] Suggestions for Self Help Groups
 
 **It also features exactly what Skin Cancer is and it's types, causes, symptoms and prevention.*
+### The app
 
-
+<p align="center">
+  <img src="https://drive.google.com/drive/u/1/folders/198geSftyKHjOOI6mRRchSn0KfUYBfIw8" />
+</p>
 # Contributors
 
 <table>
